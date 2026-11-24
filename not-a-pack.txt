@@ -1,0 +1,1 @@
+PackPulse fixture: intentionally not a ZIP.

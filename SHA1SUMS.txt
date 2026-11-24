@@ -1,0 +1,5 @@
+26b8010d27ce169ad05b17795328f6c3faa0478e  malformed-metadata.zip
+8f22a3a78567463ad1259e1cc6cca173fab97a61  missing-metadata.zip
+a0898dbf9c5e86f9aa9ed8b3747e599690f68003  nested-pack.zip
+e74d1e70b9d37f72099bf3b173e826cde4d1a25b  not-a-pack.txt
+b4e4030895065900f2f623b25a9da35a797ad6d5  valid-pack-1.21.11.zip
